@@ -7,9 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+## Tentang 
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Penjualan hewan peliharaan merupakan kegiatan jual beli hewan yang dipelihara sebagai teman manusia, dengan ketentuan yang berlaku di Indonesia dan sesuai dengan peraturan masing-masing platform e-commerce. Bisnis ini terus berkembang di Indonesia, dipicu oleh peningkatan jumlah pemilik hewan peliharaan dan kebutuhan akan berbagai produk serta layanan terkait. 
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
